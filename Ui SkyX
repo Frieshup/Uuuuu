@@ -746,7 +746,7 @@ Text2.Position = UDim2.new(0.5, 0, 0.5, 0)
 Text2.Size = UDim2.new(0, 40, 0, 12)
 Text2.ZIndex = 16
 Text2.Font = Enum.Font.GothamBold
-Text2.Text = "Join Zen Hub Discord!"
+Text2.Text = "Join SkyX Hub Discord!"
 Text2.TextColor3 = Color3.fromRGB(255, 255, 255)
 Text2.TextSize = 14.000
 
@@ -793,7 +793,7 @@ Textbtn2.MouseButton1Click:Connect(function()
       TextSize = 12
     }
   ):Play()
-  setclipboard("https://discord.gg/7xc8z6H9MR")
+  setclipboard("https://discord.com/invite/E6ffTF57RG")
   end)
 
 local Butn3 = Instance.new("Frame")
